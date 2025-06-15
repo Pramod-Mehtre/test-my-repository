@@ -1,1 +1,1 @@
-https://github.com/Pramod-Mehtre/test-my-repository.git;
+//github.com/Pramod-Mehtre/test-my-repository.git;
